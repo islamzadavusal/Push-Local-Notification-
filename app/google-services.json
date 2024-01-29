@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4013867241",
+    "project_id": "pushnotification-53840",
+    "storage_bucket": "pushnotification-53840.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4013867241:android:4385453899875c4cd5b078",
+        "android_client_info": {
+          "package_name": "com.islamzada.pushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC3Jy3HhbD0Ag5ee21x-AI6yeqrcbFXBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
